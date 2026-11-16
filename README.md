@@ -38,28 +38,35 @@ A dedicated, production-grade Minecraft Survival server infrastructure engineere
 
 ---
 
-## 🚀 Management CLI
+## 🚀 Quick Management Shortcuts
 
 ### 1. Interactive RCON Console
-```bash
-# Execute single command
-python scripts/rcon_cli.py "tps"
-python scripts/rcon_cli.py "whitelist add PlayerName"
+```cmd
+:: Quick command via batch shortcut
+.\rcon.bat tps
+.\rcon.bat "say Welcome to Pure Survival!"
 
-# Interactive terminal session
+:: Interactive terminal session
 python scripts/rcon_cli.py
 ```
 
-### 2. Remote Operations & Monitoring
-```bash
-# Check remote survival server status
-python scripts/remote_ops.py status
+### 2. Fast Server Ping & Health Check
+```cmd
+.\status.bat
+```
+Output:
+```
+=== Survival Server Status (45.154.27.246:25566) ===
+Status   : ONLINE
+Latency  : ~7.8 ms
+Version  : Purpur 26.3
+Players  : 0 / 100
+```
 
-# Run remote PowerShell command
-python scripts/remote_ops.py ps "Get-Process java"
-
-# Upload plugin to staging
-python scripts/remote_ops.py upload ./plugins/LuckPerms.jar "C:\Users\Administrator\Desktop\survival\update_staging\LuckPerms.jar"
+### 3. Deploy Plugins to Staging
+```cmd
+:: Automatically stages plugin into update_staging\ on remote host
+.\deploy.bat path\to\MyPlugin.jar
 ```
 
 ---
@@ -73,7 +80,11 @@ Survival/
 ├── AGENTS.md               # Agentic guidance bridge
 ├── CLAUDE.md               # Server handbook & operating invariants
 ├── README.md               # Main project documentation
+├── rcon.bat                # Fast RCON CLI shortcut
+├── status.bat              # Fast Server Ping & status shortcut
+├── deploy.bat              # Remote staging upload shortcut
 └── scripts/
+    ├── ping_status.py      # SLP server list ping status checker
     ├── rcon_cli.py         # Standalone Minecraft RCON commander
     └── remote_ops.py       # SSH / SFTP remote management automation
 ```
