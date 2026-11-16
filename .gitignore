@@ -1,0 +1,29 @@
+# Environment & Secrets
+.env
+.env.local
+*.pem
+*.key
+credentials.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Staging & Temporary
+downloads/
+staging/
+backups/
+logs/
+*.log
+.scratch/
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
