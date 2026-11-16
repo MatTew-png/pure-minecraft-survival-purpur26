@@ -6,6 +6,9 @@
 - **Host**: Dedicated Windows Server `45.154.27.246` (i9-12900K, 64 GB RAM).
 - **Remote Directory**: `C:\Users\Administrator\Desktop\survival`
 - **Memory Allocation**: Min 8G / Max 12G (Aikar's G1GC flags for Java 25).
+- **Team Roles**: **มด** (Lead Dev - Base Infrastructure) & **นิว** (Config Specialist & Customization).
+- **Official Blueprint**: [docs/HANDOVER_SPECIFICATION.md](file:///c:/Users/_newgen/Documents/antigravity/Survival/docs/HANDOVER_SPECIFICATION.md)
+- **Data Truth Engine**: [Google Sheets](https://docs.google.com/spreadsheets/d/11hZOHenib5-hMHXeg4HUWR_QvEE462qON4LtOZMkdvY/edit?usp=sharing)
 
 ## 🛡️ Network & Port Coexistence Rules (CRITICAL)
 This server runs concurrently with Cobblemon Network on the same physical host.

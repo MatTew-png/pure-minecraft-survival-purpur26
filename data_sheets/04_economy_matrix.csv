@@ -1,0 +1,19 @@
+﻿หมวดหมู่ไอเทม (Category),ชื่อไอเทม (Item Name),Minecraft ID,ราคารับซื้อจากผู้เล่น (Server Buy),ราคาขายให้ผู้เล่น (Server Sell),กลไกป้องกันเงินเฟ้อ (Sink / Tax),อาชีพที่เกี่ยวข้อง (Jobs),รางวัลเควสต์รายวัน (Daily Quests)
+Farming,ข้าวสาลี (Wheat),WHEAT,1.50,4.00,ภาษีตลาด 5%,Farmer,เควสต์ส่งข้าว 64 ชิ้น ()
+Farming,แครอท (Carrot),CARROT,1.20,3.50,ภาษีตลาด 5%,Farmer,เควสต์ส่งแครอท 64 ชิ้น ()
+Farming,มันฝรั่ง (Potato),POTATO,1.20,3.50,ภาษีตลาด 5%,Farmer,เควสต์ส่งมันฝรั่ง 64 ชิ้น ()
+Farming,แตงโม (Melon Slice),MELON_SLICE,0.50,2.00,จำกัดโควต้าขายต่อวัน,Farmer,-
+Farming,ฟักทอง (Pumpkin),PUMPKIN,2.00,6.00,จำกัดโควต้าขายต่อวัน,Farmer,-
+Mining,แร่ถ่านหิน (Coal),COAL,2.50,7.00,ภาษีตลาด 5%,Miner,เควสต์ขุดถ่านหิน 32 ก้อน ()
+Mining,แร่เหล็กดิบ (Raw Iron),RAW_IRON,5.00,15.00,ภาษีตลาด 5%,Miner,เควสต์ขุดเหล็ก 32 ก้อน ()
+Mining,ทองคำดิบ (Raw Gold),RAW_GOLD,10.00,30.00,ภาษีตลาด 5%,Miner,เควสต์ขุดทอง 16 ก้อน ()
+Mining,เพชร (Diamond),DIAMOND,50.00,200.00,ราคารับซื้อต่ำกว่าตลาดผู้เล่น,Miner,เควสต์ขุดเพชร 5 เม็ด ( + 10 แต้ม)
+Mining,เนเธอร์ไรต์สแครป (Netherite Scrap),NETHERITE_SCRAP,250.00,"1,000.00",ไอเทม End-game,Miner,เควสต์พิเศษล่าโบราณสถาน
+Hunting / Mob,เนื้อเน่า (Rotten Flesh),ROTTEN_FLESH,0.40,1.50,ราคารับซื้อต่ำ,Hunter,เควสต์กำจัดซอมบี้ 30 ตัว ()
+Hunting / Mob,กระดูก (Bone),BONE,1.00,3.50,ใช้ทำปุ๋ย/สุนัข,Hunter,เควสต์กำจัดสเกเลตัน 20 ตัว ()
+Hunting / Mob,ดินปืน (Gunpowder),GUNPOWDER,3.00,10.00,คุมราคาผลิต TNT,Hunter,เควสต์กำจัดครีปเปอร์ 15 ตัว ()
+Building Blocks,หินคอบเบิล (Cobblestone),COBBLESTONE,0.10,1.00,ราคารับซื้อต่ำมาก,Builder,เควสต์ส่งหิน 128 ก้อน ()
+Building Blocks,ไม้โอ๊ค (Oak Log),OAK_LOG,1.50,5.00,ภาษีตลาด 5%,Woodcutter,เควสต์ตัดไม้โอ๊ค 64 ท่อน ()
+Special Sink,ใบตั้งชื่อ (Name Tag),NAME_TAG,0.00 (ไม่รับซื้อ),150.00,Money Sink (เงินออกจากระบบ),-,สุ่มดรอปจากเควสต์
+Special Sink,อานม้า (Saddle),SADDLE,0.00 (ไม่รับซื้อ),300.00,Money Sink (เงินออกจากระบบ),-,สุ่มดรอปจากเควสต์
+Special Sink,กระดิ่ง (Bell),BELL,0.00 (ไม่รับซื้อ),500.00,Money Sink (เงินออกจากระบบ),-,-

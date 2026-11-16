@@ -1,0 +1,8 @@
+﻿ชื่อยศ (Rank),น้ำหนัก (Weight),คำนำหน้าชื่อ (Prefix),สิทธิ์หลัก (Core Permissions),จำนวน Home สูงสุด,ขีดจำกัดการเคลม (Claim Blocks),สิทธิประโยชน์ทางเศรษฐกิจ (Economy Perks),การสืบทอดสิทธิ์ (Inheritance)
+Default (Guest),10,&7[ผู้มาเยือน] ,"essentials.spawn, essentials.rules, essentials.help",0,0 (ห้ามเคลมจนกว่าจะผ่านเควสต์แรก),ไม่มี,None
+Member (ผู้เล่นทั่วไป),20,&a[สมาชิก] ,"essentials.sethome, essentials.home, essentials.tpa, essentials.tpahere, essentials.back.death, quickshop.use",3,"เริ่มต้น 1,000 บล็อก (+100 บล็อก/ชม.)",ภาษีซื้อขายมาตรฐาน 5%,Default
+VIP (ผู้สนับสนุนระดับ 1),30,&b[VIP] ,"essentials.sethome.multiple.vip, essentials.workbench, essentials.near, essentials.hat",5,"เริ่มต้น 2,500 บล็อก (+150 บล็อก/ชม.)","ภาษีซื้อขายลดเหลือ 3%, ตั้งร้านค้าได้ 10 ร้าน",Member
+MVP (ผู้สนับสนุนระดับ 2),40,&d[MVP] ,"essentials.sethome.multiple.mvp, essentials.anvil, essentials.enderchest, essentials.fly.claim",10,"เริ่มต้น 5,000 บล็อก (+200 บล็อก/ชม.)","ภาษีซื้อขายลดเหลือ 1%, ตั้งร้านค้าได้ 25 ร้าน",VIP
+Helper (ผู้ช่วย),50,&e[Helper] ,"essentials.mute, essentials.kick, essentials.socialspy, coreprotect.inspect",5,"เริ่มต้น 5,000 บล็อก",สิทธิ์ช่วยเหลือผู้เล่น,Member
+Moderator (ผู้ดูแล),60,&6[Mod] ,"essentials.ban, essentials.tempban, essentials.invsee, coreprotect.*, lands.admin.inspect",10,"10,000 บล็อก",สิทธิ์ตรวจจับการโกงและการแกล้งกัน,Helper
+Admin (ผู้พัฒนา / ผู้ดูแลระบบ),100,&c[Admin] ,*,Unlimited,Unlimited (Admin Override),สิทธิ์ระดับสมบูรณ์ (มด & นิว),Moderator

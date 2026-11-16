@@ -4,8 +4,16 @@
 [![Java](https://img.shields.io/badge/Java-25%20LTS-ED8B00?logo=openjdk)](https://adoptium.net/)
 [![Hardware](https://img.shields.io/badge/Host-i9--12900K%20%7C%2064GB-0071C5?logo=intel)](https://intel.com)
 [![Status](https://img.shields.io/badge/Live%20TPS-20.0-success)](#)
+[![Handover Specification](https://img.shields.io/badge/Blueprint-Handover%20Docs-blue)](docs/HANDOVER_SPECIFICATION.md)
+[![Data Truth Engine](https://img.shields.io/badge/Google%20Sheets-Data%20Engine-brightgreen)](https://docs.google.com/spreadsheets/d/11hZOHenib5-hMHXeg4HUWR_QvEE462qON4LtOZMkdvY/edit?usp=sharing)
 
-A dedicated, production-grade Minecraft Survival server infrastructure engineered for **Pure Vanilla+ Experience** (Zero Cobblemon / Pokemon dependencies), co-existing safely on a high-spec bare-metal host.
+A dedicated, production-grade Minecraft Survival server infrastructure engineered for **Pure Vanilla+ & Semi-Community Experience** (Zero Cobblemon / Pokemon dependencies), co-existing safely on a high-spec bare-metal host.
+
+---
+
+## 📘 เอกสารส่งมอบและระบบควบคุม (Project Blueprint & Operations)
+- 📑 **[เล่มส่งมอบระบบฉบับสมบูรณ์ (HANDOVER_SPECIFICATION.md)](docs/HANDOVER_SPECIFICATION.md)**: สถาปัตยกรรมระบบ, ข้อตกลงการแบ่งงาน RACI (มด & นิว), ตาราง Port Matrix, ขั้นตอนปฏิบัติงานทีละสเต็ป
+- 📊 **[Google Sheets Data Truth Engine](https://docs.google.com/spreadsheets/d/11hZOHenib5-hMHXeg4HUWR_QvEE462qON4LtOZMkdvY/edit?usp=sharing)**: ตารางติดตามงาน Task Matrix, รายการปลั๊กอิน, ราคากลางไอเทม, และสิทธิ์ LuckPerms Ranks
 
 ---
 
