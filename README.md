@@ -12,9 +12,11 @@ A dedicated, production-grade Minecraft Survival server infrastructure engineere
 ---
 
 ## 📘 เอกสารส่งมอบและระบบควบคุม (Project Blueprint & Operations)
+- ⚔️ **[แผนผังการออกแบบระบบเกมเชิงลึก (GAME_DESIGN_SPECIFICATION.md)](docs/GAME_DESIGN_SPECIFICATION.md)**: สเปกระบบเกม MMORPG-Survival Hybrid ฉบับสมบูรณ์ (Gameloop, เศรษฐกิจ, อาชีพรอง 6 สาย, สกิล Free-build, ตีบวก/รูน, เอนแชนต์ Gathering)
 - 🖥️ **[Interactive Handover Dashboard (เปิดในเบราว์เซอร์)](docs/dashboard.html)**: แดชบอร์ดสรุปสถานะเซิร์ฟเวอร์แบบอินเตอร์แอคทีฟ, ตัวกรองบทบาทงาน RACI (มด & นิว), แผงคำสั่งลัด
 - 📑 **[เล่มส่งมอบระบบฉบับสมบูรณ์ (HANDOVER_SPECIFICATION.md)](docs/HANDOVER_SPECIFICATION.md)**: สถาปัตยกรรมระบบ, ข้อตกลงการแบ่งงาน RACI (มด & นิว), ตาราง Port Matrix, ขั้นตอนปฏิบัติงานทีละสเต็ป
 - 📊 **[Google Sheets Data Truth Engine](https://docs.google.com/spreadsheets/d/11hZOHenib5-hMHXeg4HUWR_QvEE462qON4LtOZMkdvY/edit?usp=sharing)**: ตารางติดตามงาน Task Matrix, รายการปลั๊กอิน, ราคากลางไอเทม, และสิทธิ์ LuckPerms Ranks
+- 📈 **[ตารางค่าตัวเลขระบบเกม (06_game_systems_matrix.csv)](data_sheets/06_game_systems_matrix.csv)**: ตัวเลขสมดุลเศรษฐกิจ, อัตราความสำเร็จตีบวก, สเปก Resource Nodes, และอัตราดรอปบอส
 
 ---
 

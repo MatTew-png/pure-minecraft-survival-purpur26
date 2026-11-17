@@ -6,7 +6,8 @@
 > **ผู้จัดทำ**: Lead Systems Architect  
 > **ทีมงานหลัก**: **คุณมด** (Lead Developer / Base Infrastructure) & **คุณนิว** (Config Specialist / Customization Lead)  
 > **วันที่มีผลบังคับใช้**: 16 พฤศจิกายน 2026  
-> **Single Source of Truth (SSOT)**: [Google Spreadsheet Data Truth Engine](https://docs.google.com/spreadsheets/d/11hZOHenib5-hMHXeg4HUWR_QvEE462qON4LtOZMkdvY/edit?usp=sharing)
+> **Single Source of Truth (SSOT)**: [Google Spreadsheet Data Truth Engine](https://docs.google.com/spreadsheets/d/11hZOHenib5-hMHXeg4HUWR_QvEE462qON4LtOZMkdvY/edit?usp=sharing)  
+> **Game Design Blueprint**: [docs/GAME_DESIGN_SPECIFICATION.md](file:///c:/Users/_newgen/Documents/antigravity/Survival/docs/GAME_DESIGN_SPECIFICATION.md)
 
 ---
 

@@ -8,7 +8,8 @@
 - **Memory Allocation**: Min 8G / Max 12G (Aikar's G1GC flags for Java 25).
 - **Team Roles**: **มด** (Lead Dev - Base Infrastructure) & **นิว** (Config Specialist & Customization).
 - **Official Blueprint**: [docs/HANDOVER_SPECIFICATION.md](file:///c:/Users/_newgen/Documents/antigravity/Survival/docs/HANDOVER_SPECIFICATION.md)
-- **Data Truth Engine**: [Google Sheets](https://docs.google.com/spreadsheets/d/11hZOHenib5-hMHXeg4HUWR_QvEE462qON4LtOZMkdvY/edit?usp=sharing)
+- **Game Design Blueprint**: [docs/GAME_DESIGN_SPECIFICATION.md](file:///c:/Users/_newgen/Documents/antigravity/Survival/docs/GAME_DESIGN_SPECIFICATION.md)
+- **Data Truth Engine**: [Google Sheets](https://docs.google.com/spreadsheets/d/11hZOHenib5-hMHXeg4HUWR_QvEE462qON4LtOZMkdvY/edit?usp=sharing) | [data_sheets/06_game_systems_matrix.csv](file:///c:/Users/_newgen/Documents/antigravity/Survival/data_sheets/06_game_systems_matrix.csv)
 
 ## 🛡️ Network & Port Coexistence Rules (CRITICAL)
 This server runs concurrently with Cobblemon Network on the same physical host.

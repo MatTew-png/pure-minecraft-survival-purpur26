@@ -1,0 +1,36 @@
+ระบบย่อย (System),องค์ประกอบ / ชื่อ (Component Name),ระดับ / ขั้น (Tier / Level),อัตราหรือค่าตัวเลข (Rate / Value),เงื่อนไข / วัตถุดิบ (Requirements),ผลลัพธ์ / สิทธิประโยชน์ (Outputs / Perks),กลไกสมดุล (Balance / Sink Mechanism)
+Economy,Early Game Income,Lv 1-15,$1500 - $3000 / ชม.,ขยายแปลงเกษตร + เควสต์รายวัน,เงินตั้งตัวสร้างบ้าน,จำกัดโควต้าขายใน Server Shop
+Economy,Mid Game Income,Lv 16-35,$6000 - $14000 / ชม.,ขุด Resource Nodes + ตลาดผู้เล่น,เงินอัปเกรดกิลด์และซื้อของกลาง,ภาษีตลาด 3-5% + ค่าตีบวก +1 ถึง +6
+Economy,End Game Income,Lv 36+,$20000 - $45000+ / ชม.,ล่าบอสโลก + ตีบวกขาย + ช่างอาชีพ,ความมั่งคั่งและอันดับผู้นำ,ค่าธรรมเนียมตีบวก +7 ถึง +10 และหินกันแตก
+World Zoning,Spawn Hub,Safe Zone,No Damage / Safe,"Citadel กลาง",NPC 6 อาชีพ + ตลาดประมูล + แท่นตีบวก,ห้าม PvP และห้ามสร้างสิ่งปลูกสร้าง
+World Zoning,Survival World,10000x10000,Claim Protection,ที่ดินถาวรของผู้เล่น,สร้างบ้าน / ชุมชน / เมือง,ระบบคิดค่าเช่า/ภาษีเคลมที่ดิน
+World Zoning,Gathering World,5000x5000,Bonus Drops +20%,รีเซ็ตทุกวันที่ 1 ของเดือน,ขุดแร่และตัดไม้แบบไม่จำกัด,ห้ามเคลมเพื่อเปิดเสรีการฟาร์ม
+World Zoning,Dungeon Realm,4 Tiers,Danger Zone,มอนสเตอร์เลเวลสูง,หีบสมบัติบอส + หินรูน + ชิ้นส่วนคราฟต์,ห้ามวางหรือทำลายบล็อก
+Mob System,Wild Mobs,Tier 1,HP x1 / Dmg x1,เกิดตามไบโอมธรรมชาติ,ชิ้นส่วน Vanilla (กระดูก เนื้อเน่า ดินปืน),แหล่ง EXP ผู้เล่นใหม่
+Mob System,Elite Mobs,Tier 2,HP x3 / Dmg x2,สุ่มติด Affixes (Vampiric / Armored / Molten),Gem Shards + Skill Scrolls,ต้องใช้ปาร์ตี้หรืออาวุธธาตุ
+Mob System,Dungeon Guardians,Tier 3,HP x10 / Boss Bar,เกิดในห้องโถงดันเจี้ยน,Runestones + Beast Core,คูลดาวน์การเกิด 30-60 นาที
+Mob System,World Raid Boss,Tier 4,HP x50 / 3 Phases,เกิดตามเวลา 19:00 และ 22:00 น.,Celestial Catalyst + Mythic Blueprints,แจกกล่องตาม % Damage Dealt (Anti-Last Hit)
+Resource Nodes,Crystal Ore Vein,Mineable,3-5 นาที Respawn,Pickaxe Iron ขึ้นไป (ตี 4 ครั้ง),แร่ดิบ + Mithril Nugget (15%) + Gemstone (5%),Anti-AFK Hit Marker
+Resource Nodes,Ancient Timber Node,Choppable,5-8 นาที Respawn,Axe Iron ขึ้นไป (จาม 5 ครั้ง),Hardwood Log + Ancient Resin (20%),Anti-AFK Hit Marker
+Resource Nodes,Mystic Herb Bush,Harvestable,2-4 นาที Respawn,Shears หรือมีดเก็บสมุนไพร,Silverleaf + Gravebloom + Nature Dew (10%),Anti-AFK Hit Marker
+Resource Nodes,Abyssal Fishing Pool,Fishable,10-15 นาที Respawn,Fishing Rod Lure II+,ปลาหายาก + Abyssal Pearl (10%) + หีบสมบัติ,จุดน้ำวนมีฟองพวยพุ่งกลางทะเล
+Refinement,ตีบวก +1 ถึง +3,+1 to +3,สำเร็จ 100%,Refining Stone x2 + $500,สเตตัส +5% ต่อขั้น,ปลอดภัย 100%
+Refinement,ตีบวก +4 ถึง +6,+4 to +6,สำเร็จ 65%,Refining Stone x5 + Iron Ore x10 + $2000,สเตตัส +8% ต่อขั้น,ล้มเหลวระดับลดลง 1 ขั้น
+Refinement,ตีบวก +7 ถึง +9,+7 to +9,สำเร็จ 35%,Grand Refining Stone x2 + Mithril x5 + $8000,สเตตัส +12% ต่อขั้น,ล้มเหลวระดับตกเป็น +4 (ใช้ Protection Scroll กันได้)
+Refinement,ตีบวก +10,+10,สำเร็จ 15%,Celestial Stone x1 + Catalyst x1 + $25000,สเตตัส +20% + แสงออร่าเรืองแสง,ล้มเหลวระดับตกเป็น +4
+Custom Enchants,Vein Resonance,Pickaxe,กวาดแร่ 3 บล็อก,Enchantment Table / Book,ขุดสายแร่ใน Node แตกทั้งยวง,เปลืองค่าความทนทาน 1.5x
+Custom Enchants,Timber Cleave,Axe,ล้มทั้งต้น,Enchantment Table / Book,ตัดโคนไม้ Node ท่อนซุงร่วงหมดทั้งต้น,เปลืองค่าความทนทานตามจำนวนบล็อก
+Custom Enchants,Deep Dowsing,Pickaxe,อัญมณี +15%,Enchantment Table / Book,เพิ่มโอกาสได้รับ Gemstones จาก Node,ใช้ได้เฉพาะกับ Node แร่
+Custom Enchants,Bountiful Harvest,Hoe,ผลผลิต x2 + Replant,Enchantment Table / Book,เก็บเกี่ยวแปลงเกษตรได้ 2 เท่าและปลูกคืนทันที,ประหยัดเวลาปลูกพืช
+Custom Enchants,Magnetic Pull,Tools,ดูดของเข้าตัว,Enchantment Table / Book,ไอเทมที่ดรอปลอยเข้ากระเป๋าอัตโนมัติ,ป้องกันของตกหล่น
+Custom Enchants,Smelters Touch,Pickaxe,หลอมทันที,Enchantment Table / Book,แร่ดิบกลายเป็นแท่ง Ingot สำเร็จรูปทันที,ไม่ต้องพกเตาเผา
+Free Build Skill,Vanguard Tree,Physical,Leap Strike / Whirlwind,ใช้แต้ม Skill Points (SP),ดาเมจกายภาพกวาดหมู่,ใช้ Cooldown และ Stamina
+Free Build Skill,Arcane Tree,Magic,Flame Nova / Blink / Heal,ใช้แต้ม Skill Points (SP),ดาเมจเวทและฮีลเพื่อน,ใช้ Cooldown และ Mana
+Free Build Skill,Scout Tree,Agility,Arrow Rain / Shadow Step / Frost Trap,ใช้แต้ม Skill Points (SP),ความคล่องตัวและการควบคุมสนามรบ,ใช้ Cooldown และ Stamina
+Sub-Jobs,เชฟ (Chef),Profession,อาหารบัฟ HP/Stamina,ทำอาหาร / ปิ้งย่าง,เพิ่ม Max HP 4-6 หัว และเร่งฟื้นฟู Stamina,เป็นไอเทมสิ้นเปลืองที่ทุกคนต้องซื้อ
+Sub-Jobs,นักตกปลา (Fisherman),Profession,วัตถุดิบทะเล & ไข่มุก,ตกปลาในบ่อปกติและ Abyssal Pool,Abyssal Pearl + หีบสมบัติ + ปลาเกรดพรีเมียม,ส่งวัตถุดิบให้เชฟและช่างตีเหล็ก
+Sub-Jobs,คนตัดไม้ (Lumberjack),Profession,ไม้เนื้อแข็ง & ยางไม้,ตัดไม้ทั่วไปและ Ancient Timber Node,Hardwood + Ancient Resin,ส่งให้ช่างตีเหล็กคราฟต์อาวุธ
+Sub-Jobs,คนขุดแร่ (Miner),Profession,แร่บริสุทธิ์ & อัญมณี,ขุดแร่และกะเทาะ Crystal Veins,Mithril Ingot + Flawed Gemstone,ส่งให้ช่างตีเหล็กหลอมเกราะ
+Sub-Jobs,นักปรุงยา (Alchemist),Profession,ยาบัฟ & ยาพิษ,ปรุงยาและสกัดสมุนไพร,ยาเร่งขุด Haste II (30 นาที) + ยาดูดเลือด + ยาพิษ,ส่งเสริมผู้เล่นสายฟาร์มและสายลุยบอส
+Sub-Jobs,ช่างตีเหล็ก (Blacksmith),Profession,อุปกรณ์ Tier 2-4 & ตีบวก,หลอมแร่และตีเหล็ก,คราฟต์เกราะเทพ + เจาะรู Socket + ตีบวกอุปกรณ์,แกนกลางของระบบอุปกรณ์รบ
+Premium System,Monthly Pass,Subscription,30 วัน,ต่ออายุรายเดือน,กล่องรายวัน + โบนัส EXP 15% + กระเป๋า 27 ช่อง + ฉายา,Non-P2W เน้นความสะดวกสบายและประดับบารมี
